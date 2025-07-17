@@ -93,5 +93,6 @@ public class TestString {
         String myNames1 = "abhishekh kumar";
         int mynameIdx1 = myNames1.lastIndexOf("h"); // find last matched string
         System.out.println(mynameIdx1);
+        System.out.println("Program run successfully!");
     }
 }
