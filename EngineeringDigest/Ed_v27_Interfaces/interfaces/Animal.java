@@ -1,6 +1,6 @@
 package Ed_v27_Interfaces.interfaces;
 
-// Interface is Blue Print for making Classes
+// Interface is Blue Print for creating Class
 public interface Animal {
 
     public static final int Max_AGE = 150; // not needed Static Or Final Keyword

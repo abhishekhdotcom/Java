@@ -1,5 +1,6 @@
 package Ed_v27_Interfaces.interfaces;
 
+// Dog class impliment Animal interface
 public class Dog implements Animal {
     // Method Override
     @Override

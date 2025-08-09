@@ -1,5 +1,6 @@
 package Ed_v27_Interfaces.interfaces;
 
+// Cat class impliment Animal interface
 public class Cat implements Animal {
 
     @Override

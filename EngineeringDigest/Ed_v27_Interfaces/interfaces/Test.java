@@ -2,13 +2,13 @@ package Ed_v27_Interfaces.interfaces;
 
 public class Test {
     public static void main(String[] args) {
-        // Dog Class object
+        // Dog Class obj
         Dog dog = new Dog();
         dog.eat();
         dog.sleep();
         dog.run(4, 8);
 
-        // Cat Class object
+        // Cat Class obj
         Cat cat = new Cat();
         cat.eat();
         cat.sleep();
