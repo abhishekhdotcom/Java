@@ -1,5 +1,6 @@
 package Ed_v27_Interfaces.multipleinterfaces;
 
+// Smartphone class impliment multiple interface
 public class SmartPhone implements Camera, MusicPlayer, Phone {
 
     // -----------Method Override-----------
